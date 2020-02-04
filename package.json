@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RobsonAreias/YoutubeUp/issues"
   },
-  "homepage": "https://github.com/RobsonAreias/YoutubeUp#readme"
+  "homepage": "https://github.com/RobsonAreias/YoutubeUp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
